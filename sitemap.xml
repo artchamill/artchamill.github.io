@@ -14,7 +14,7 @@
 <link rel='stylesheet' id='twentynineteen-print-style-css'  href='https://artchamill.github.io/wp-content/themes/twentynineteen/print.css?ver=1.2' type='text/css' media='print' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ahcfree_ajax_front = {"ajax_url":"http:\/\/PLACEHOLDER.wpsho\/wp-admin\/admin-ajax.php","page_id":"5","page_title":"About me","post_type":"page"};
+var ahcfree_ajax_front = {"ajax_url":"https:\/\/artchamill.github.io\/wp-admin\/admin-ajax.php","page_id":"5","page_title":"About me","post_type":"page"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://artchamill.github.io/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js?ver=5.0.3'></script>
@@ -23,8 +23,8 @@ var ahcfree_ajax_front = {"ajax_url":"http:\/\/PLACEHOLDER.wpsho\/wp-admin\/admi
 <meta name="generator" content="WordPress 5.0.3" />
 <link rel="canonical" href="https://artchamill.github.io/" />
 <link rel='shortlink' href='https://artchamill.github.io/' />
-<link rel="alternate" type="application/json+oembed" href="https://artchamill.github.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwordpress.dev.cc%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://artchamill.github.io/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwordpress.dev.cc%2F&#038;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="https://artchamill.github.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farthurhamill.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://artchamill.github.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farthurhamill.com%2F&#038;format=xml" />
 
 	<style type="text/css" id="custom-theme-colors" >
 		
@@ -175,7 +175,11 @@ var ahcfree_ajax_front = {"ajax_url":"http:\/\/PLACEHOLDER.wpsho\/wp-admin\/admi
 <link rel="icon" href="https://artchamill.github.io/wp-content/uploads/2019/02/cropped-20431923645_e07b93ec96_o-copy-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="https://artchamill.github.io/wp-content/uploads/2019/02/cropped-20431923645_e07b93ec96_o-copy-180x180.png" />
 <meta name="msapplication-TileImage" content="https://artchamill.github.io/wp-content/uploads/2019/02/cropped-20431923645_e07b93ec96_o-copy-270x270.png" />
-</head>
+		<style type="text/css" id="wp-custom-css">
+			.site-info{
+display:none;
+}		</style>
+	</head>
 
 <body class="home page-template-default page page-id-5 wp-custom-logo wp-embed-responsive singular">
 <div id="page" class="site">
